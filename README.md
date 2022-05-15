@@ -2,7 +2,6 @@
 
 This project is using React JS Framework to check the weather around the world. Feel free to search your weather [here](https://weather-by-nurulshuqriah.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to Start
 
