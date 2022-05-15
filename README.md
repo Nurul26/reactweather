@@ -1,12 +1,18 @@
-# React Wheather
+# React Weather
 
-
+This project is using React JS Framework to check the weather around the world. Feel free to search your weather [here](https://weather-by-nurulshuqriah.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## How to Start
 
-In the project directory, you can run:
+1. git clone the project with either https or ssh methods.
+
+2. git branch -a to check remote branch.
+
+3. git checkout origin/[NAME] to access remote branch.
+
+4. git checkout -b [NAME] to clone remote branch to your local.
 
 ### `npm start`
 
